@@ -1,2 +1,5 @@
-outputs/
 .ipynb_checkpoints
+outputs/*
+!outputs/.gitkeep 
+data/*
+!data/.gitkeep
